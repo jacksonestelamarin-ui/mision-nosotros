@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" shape-rendering="crispEdges">
+  <!-- Paloma Falling Sprite -->
+  <ellipse cx="24" cy="24" rx="12" ry="14" fill="#9ca3af" />
+  <!-- Fluttering loose feathers -->
+  <path d="M 6 12 L 2 4 L 10 8 Z" fill="#cbd5e1" />
+  <path d="M 40 10 L 46 2 L 38 8 Z" fill="#cbd5e1" />
+  <!-- Tilted Head -->
+  <circle cx="24" cy="34" r="6" fill="#9ca3af" />
+  <polygon points="24,40 22,46 26,46" fill="#f97316" />
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 96" shape-rendering="crispEdges">
+  <!-- Jackson Hurt Sprite -->
+  <!-- Hair -->
+  <rect x="20" y="8" width="24" height="6" fill="#1c1917" />
+  <rect x="18" y="12" width="28" height="6" fill="#1c1917" />
+  
+  <!-- Head recoil -->
+  <rect x="18" y="22" width="24" height="18" fill="#fde68a" />
+  <!-- Glasses crooked -->
+  <rect x="20" y="28" width="8" height="8" fill="none" stroke="#000000" stroke-width="2" />
+  <rect x="32" y="28" width="8" height="8" fill="none" stroke="#000000" stroke-width="2" />
+  <!-- Wincing expression -->
+  <rect x="22" y="32" width="4" height="2" fill="#000000" />
+  <rect x="34" y="32" width="4" height="2" fill="#000000" />
+
+  <!-- Blue Shirt clutching stomach -->
+  <rect x="14" y="40" width="32" height="24" fill="#2563eb" />
+  <rect x="22" y="48" width="16" height="12" fill="#1d4ed8" /> <!-- Clutching hands -->
+
+  <!-- Black Pants -->
+  <rect x="16" y="64" width="28" height="22" fill="#0f172a" />
+  <rect x="12" y="84" width="14" height="8" fill="#f8fafc" />
+  <rect x="34" y="84" width="14" height="8" fill="#f8fafc" />
+</svg>

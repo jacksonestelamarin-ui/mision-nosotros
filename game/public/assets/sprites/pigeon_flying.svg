@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" shape-rendering="crispEdges">
+  <!-- Paloma Flying Sprite -->
+  <ellipse cx="24" cy="24" rx="14" ry="10" fill="#9ca3af" />
+  <!-- Spread Wings -->
+  <path d="M 12 24 L 2 6 L 18 16 Z" fill="#6b7280" />
+  <path d="M 28 24 L 46 6 L 36 16 Z" fill="#6b7280" />
+  <!-- Neck Iridescence -->
+  <rect x="18" y="16" width="6" height="4" fill="#10b981" />
+  <rect x="18" y="20" width="6" height="4" fill="#a855f7" />
+  <!-- Head & Beak -->
+  <circle cx="12" cy="16" r="6" fill="#9ca3af" />
+  <polygon points="6,16 1,18 6,20" fill="#f97316" />
+  <circle cx="10" cy="15" r="2" fill="#dc2626" />
+</svg>

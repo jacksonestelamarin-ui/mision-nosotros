@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 96" shape-rendering="crispEdges">
+  <!-- Eliza Reunion Pose Sprite -->
+  <!-- Floating Hearts around -->
+  <path d="M6 10 Q6 6 10 6 Q14 6 14 10 Q14 16 10 20 Q6 16 6 10 Z" fill="#ef4444" />
+  <path d="M50 14 Q50 10 54 10 Q58 10 58 14 Q58 20 54 24 Q50 20 50 14 Z" fill="#f43f5e" />
+
+  <!-- Blonde Hair -->
+  <rect x="18" y="4" width="28" height="8" fill="#fde047" />
+  <rect x="14" y="10" width="36" height="10" fill="#fde047" />
+  <rect x="12" y="18" width="12" height="28" fill="#fde047" />
+  <rect x="40" y="18" width="12" height="28" fill="#fde047" />
+
+  <!-- Face & Joyful Expression -->
+  <rect x="20" y="18" width="24" height="18" fill="#fef3c7" />
+  <rect x="24" y="24" width="6" height="6" fill="#1d4ed8" />
+  <rect x="34" y="24" width="6" height="6" fill="#1d4ed8" />
+  <rect x="28" y="32" width="8" height="4" fill="#e11d48" />
+
+  <!-- Blue Dress -->
+  <rect x="18" y="36" width="28" height="48" fill="#3b82f6" />
+  <!-- Arms outstretched forward -->
+  <rect x="4" y="40" width="16" height="8" fill="#fef3c7" />
+  <rect x="44" y="40" width="16" height="8" fill="#fef3c7" />
+
+  <!-- Shoes -->
+  <rect x="20" y="84" width="10" height="8" fill="#94a3b8" />
+  <rect x="34" y="84" width="10" height="8" fill="#94a3b8" />
+</svg>

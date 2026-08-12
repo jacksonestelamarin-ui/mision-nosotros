@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 96" shape-rendering="crispEdges">
+  <!-- Jackson Walk 2 Sprite -->
+  <!-- Hair -->
+  <rect x="20" y="4" width="24" height="6" fill="#1c1917" />
+  <rect x="18" y="8" width="28" height="6" fill="#1c1917" />
+  <rect x="16" y="12" width="32" height="6" fill="#1c1917" />
+  <rect x="20" y="18" width="24" height="6" fill="#1c1917" />
+  
+  <!-- Head & Glasses -->
+  <rect x="20" y="20" width="24" height="18" fill="#fde68a" />
+  <rect x="22" y="26" width="8" height="8" fill="none" stroke="#000000" stroke-width="2" />
+  <rect x="34" y="26" width="8" height="8" fill="none" stroke="#000000" stroke-width="2" />
+  <rect x="30" y="28" width="4" height="2" fill="#000000" />
+
+  <!-- Blue Shirt -->
+  <rect x="16" y="38" width="32" height="24" fill="#2563eb" />
+  <!-- Arm swinging opposite -->
+  <rect x="50" y="38" width="6" height="18" fill="#2563eb" />
+  <rect x="50" y="56" width="6" height="6" fill="#fde68a" />
+  <rect x="8" y="38" width="6" height="18" fill="#2563eb" />
+  <rect x="8" y="56" width="6" height="6" fill="#fde68a" />
+
+  <!-- Leg stride opposite -->
+  <rect x="38" y="62" width="14" height="22" fill="#0f172a" />
+  <rect x="12" y="62" width="14" height="22" fill="#0f172a" />
+
+  <!-- White Sneakers -->
+  <rect x="38" y="84" width="16" height="8" fill="#f8fafc" />
+  <rect x="8" y="84" width="16" height="8" fill="#f8fafc" />
+</svg>

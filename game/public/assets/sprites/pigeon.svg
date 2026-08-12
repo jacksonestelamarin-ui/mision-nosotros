@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" shape-rendering="crispEdges">
+  <!-- Common Gray Pigeon Sprite -->
+  <!-- Body (Gray #9ca3af) -->
+  <ellipse cx="24" cy="26" rx="14" ry="10" fill="#9ca3af" />
+  <!-- Wing (#6b7280) -->
+  <path d="M14 22 Q24 28 32 20 Q24 32 14 22 Z" fill="#6b7280" />
+  <!-- Iridescent Neck (#10b981 & #a855f7) -->
+  <rect x="12" y="16" width="6" height="4" fill="#10b981" />
+  <rect x="12" y="20" width="6" height="4" fill="#a855f7" />
+  <!-- Head & Beak -->
+  <circle cx="12" cy="14" r="6" fill="#9ca3af" />
+  <!-- Orange Beak -->
+  <polygon points="6,14 1,16 6,18" fill="#f97316" />
+  <!-- Red Eye -->
+  <circle cx="10" cy="13" r="2" fill="#dc2626" />
+  <!-- Feet -->
+  <rect x="20" y="36" width="3" height="8" fill="#f43f5e" />
+  <rect x="26" y="36" width="3" height="8" fill="#f43f5e" />
+</svg>

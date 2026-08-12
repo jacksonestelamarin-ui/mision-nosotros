@@ -1,0 +1,6 @@
+{
+  "name": "Misión: Nosotros",
+  "description": "Juego 2D pixel-art romántico de 4 escenas para Jackson y Eliza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
